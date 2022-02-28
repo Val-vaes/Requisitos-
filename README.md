@@ -1,4 +1,5 @@
 Desarrollo de FrontEnd- mission
 
-# Requisitos-
+# INTRO-
 Requisitos del cliente
+Buyer persona
